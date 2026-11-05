@@ -1,0 +1,14 @@
+{
+  "baseDate": "2026-10-25",
+  "policy": "pcm-poc-2026-10-25.1",
+  "documentationVersion": "3.9.2",
+  "artifactInfoVersion": "1.0.0",
+  "executedOfficialVersion": null,
+  "commit": "de7fb6a9339cc432e3c5290a60d15ec0379d7722",
+  "sourceUrl": "https://raw.githubusercontent.com/OpenBanking-Brasil/pcm-specs/de7fb6a9339cc432e3c5290a60d15ec0379d7722/PCM-current.openapi.yaml",
+  "localPath": "contracts/reporting/pcm/PCM-current.openapi.original.yaml",
+  "sha256": "ecaab5db5e5e132493cb66158c599ad0c6b9de73e066c21afc8954c6492701f3",
+  "researchEvidenceManifest": ".local/expansion/pcm/provenance.json",
+  "researchDocument": "docs/research/2026-10-25-pcm-policy.md",
+  "pinnedCommitArtifactVerifiedByteEquivalent": true
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "accounts-2.5.1.yaml",
+    "category": "Contas",
+    "version": "2.5.1",
+    "url": "https://raw.githubusercontent.com/OpenBanking-Brasil/all-services-repo/b3fcfc071c92d1fed4a2005a630778f5672d6914/api_accounts_-_open_finance_brasil/2.5.1.yaml",
+    "commit": "b3fcfc071c92d1fed4a2005a630778f5672d6914",
+    "sha256": "ff5348ad631138aa66c60bf74de00eb03cb5a9e9643b937d948269e7b34a3905",
+    "bytes": 82781,
+    "license": "Apache-2.0",
+    "retrievedAtUtc": "2026-10-25T19:33:11.3799655+00:00"
+  },
+  {
+    "name": "credit-cards-accounts-2.4.0.yaml",
+    "category": "Cartões de Crédito",
+    "version": "2.4.0",
+    "url": "https://raw.githubusercontent.com/OpenBanking-Brasil/all-services-repo/b3fcfc071c92d1fed4a2005a630778f5672d6914/api_credit-cards-accounts_-_open_finance_brasil/2.4.0.yaml",
+    "commit": "b3fcfc071c92d1fed4a2005a630778f5672d6914",
+    "sha256": "560f9589090e0c4d8e7345ea5acba37c340496ea3b173e351f15689953968219",
+    "bytes": 94034,
+    "license": "Apache-2.0",
+    "retrievedAtUtc": "2026-10-25T19:33:11.5961673+00:00"
+  },
+  {
+    "name": "loans-2.7.0.yaml",
+    "category": "Empréstimos",
+    "version": "2.7.0",
+    "url": "https://raw.githubusercontent.com/OpenBanking-Brasil/all-services-repo/491ca3149c6e161e64144199046922160e5ef046/api_loans_-_open_finance_brasil/2.7.0.yaml",
+    "commit": "491ca3149c6e161e64144199046922160e5ef046",
+    "sha256": "ef70bf02b4ab5d727fac841b876f9a2def1370d93474e48a24d324906b78336f",
+    "bytes": 77650,
+    "license": "Apache-2.0",
+    "retrievedAtUtc": "2026-10-25T19:33:11.7870184+00:00"
+  },
+  {
+    "name": "bank-fixed-incomes-1.1.0.yml",
+    "category": "Renda Fixa Bancária",
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/OpenBanking-Brasil/openapi/21fed0429e5ccc0fb0854ceaec48473461093942/swagger-apis/bank-fixed-incomes/1.1.0.yml",
+    "commit": "21fed0429e5ccc0fb0854ceaec48473461093942",
+    "sha256": "81c532446dc455079781e544b522a01206d65a73f358221cf99f20021591f7ae",
+    "bytes": 58515,
+    "license": "Apache-2.0",
+    "retrievedAtUtc": "2026-10-25T19:33:11.9677821+00:00"
+  }
+]
