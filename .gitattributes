@@ -1,0 +1,2 @@
+# Fontes oficiais: os hashes valem para os bytes exatos, sem normalizar fim de linha.
+contracts/** -text
